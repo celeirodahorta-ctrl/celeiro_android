@@ -1,0 +1,28 @@
+{
+  "name": "Celeiro da Horta",
+  "short_name": "Celeiro da Horta",
+  "description": "A loja online para a sua horta e jardim!",
+  "lang": "pt-PT",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#315f3a",
+  "background_color": "#17301f",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "version": "exact-reference"
+}

@@ -1,0 +1,15 @@
+Celeiro da Horta — Como Cultivar
+V8 — Página inicial aprovada
+
+Página inicial:
+- Logotipo
+- Título apenas “Como Cultivar”
+- Quatro cartões: Horta; Flores e Jardim; Aromáticas e Medicinais; Doenças, Fungos e Insetos
+- Cartões altos e ícones grandes
+- Área Lua e cultivo
+- Fundo creme original aprovado
+
+Rodapé:
+- Apenas Início, a toda a largura
+
+O restante da aplicação V8 é mantido.
